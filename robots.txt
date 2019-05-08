@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nodegamah.radvice.no/sitemap.xml
